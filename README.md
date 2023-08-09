@@ -12,3 +12,5 @@
 
 <h2>🤳Connect with me:</h2>
 LinkedIn: https://www.linkedin.com/in/darian-wells-84212527b/
+
+Email: dwells.connect@gmail.com
