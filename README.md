@@ -1,4 +1,4 @@
-<h1>Hi, I'm Darian, an <a href="https://linkedin.com/in/Josh">IT Professional
+<h1>Hi, I'm Darian, an <a href="https://www.linkedin.com/in/darian-wells-84212527b/">IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
